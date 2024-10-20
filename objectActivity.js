@@ -1,7 +1,7 @@
 let car = {
     type: "Subaru",
     model: "Crosstrek",
-    color: "Grey"
+    color: "Gray"
 };
 
 console.log(typeof car);
